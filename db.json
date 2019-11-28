@@ -1,0 +1,15 @@
+{
+  "tags": [
+    {
+      "id": 1,
+      "title": "first tag"
+    },
+    {
+      "id": 2,
+      "title": "second tag"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
